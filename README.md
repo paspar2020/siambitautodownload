@@ -1,6 +1,6 @@
 
 # siambitautodownload
-siambit auto download torrent in tab for tempermonkey 
+siambit auto download and send thank torrent in tab for tempermonkey 
 
 **way to Install**
 
