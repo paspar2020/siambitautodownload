@@ -17,6 +17,8 @@ var res = document.documentElement.innerHTML.substring(rawtext, rawtext2-7);
 window.location ="https://www.siambit.me/"+res;
 document.title = "Download started";
                 }
+if (strsub >= 7){
 if(document.title != "Download started"){
 location.reload();
+}
 }
